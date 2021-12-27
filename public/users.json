@@ -1,0 +1,15 @@
+{
+    "sashank" :{
+        "name" : "sashank",
+        "role" : "developer"        
+    },
+    "joe" : {
+        "name" : "joe",
+        "role" : "designer"        
+    },
+    "jack" : {
+        "name" : "jack",
+        "role" : "manager"        
+    }
+
+}
